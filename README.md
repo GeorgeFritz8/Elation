@@ -11,4 +11,4 @@ Week 1:
 
 18-11-2026 Wo: Ik heb een crazy8 aan designs gemaakt voor mijn project. Helpt veel
 
-<image src="./readme-images/Crazy8.jpeg" alt="Crazy Eight" width="100">
+<image src="./readme-images/Crazy8.jpeg" alt="Crazy Eight" width="800">
