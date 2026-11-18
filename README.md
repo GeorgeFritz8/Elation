@@ -10,4 +10,4 @@ Week 1:
 16-11-2026 Ma: Vandaag heb ik een concreet antwoord gekregen over de natuur van deze opdracht. We mogen zelf iets bedenken? Da's leuk! We hebben ook een lijstje gemaakt van wat wij moeten doen per week. Ik ga dit waarschijnlijk op Trello bijhouden.
 
 18-11-2026 Wo: Ik heb een crazy8 aan designs gemaakt voor mijn project. Helpt veel
-<image src="readme-images/Crazy8" alt="Crazy Eight" Width="800">
+<image src="readme-images/Crazy.jpeg" alt="Crazy Eight" Width="800">
